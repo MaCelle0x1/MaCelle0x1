@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning information security at the Univeristy of Illinois Springfield. I am a junior. 
 - 💞️ I’m looking to collaborate on CTF events or just HackTheBox machines in general. 
 - 📫 How to reach me:
--Discord: Arpeggio#8526
--Email: johna62501@gmail.com
+  - Discord: Arpeggio#8526
+  - Email: johna62501@gmail.com
 
 <!---
 MaCelle0x1/MaCelle0x1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
